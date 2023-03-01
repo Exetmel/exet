@@ -7,3 +7,11 @@ try creating some branch paras future project
 waa langs para ignon
 
 
+<<<<<<< HEAD
+=======
+
+we 
+we
+we
+ex
+>>>>>>> backup2
