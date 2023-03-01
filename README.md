@@ -7,11 +7,8 @@ try creating some branch paras future project
 waa langs para ignon
 
 
-<<<<<<< HEAD
-=======
-
-we 
+git we 
 we
 we
 ex
->>>>>>> backup2
+weak
